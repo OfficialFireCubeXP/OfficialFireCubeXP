@@ -1,5 +1,9 @@
-## Grettings, traveller
+## Greetings, traveller
 
-I am a C/C++ programmer. I'm not really that active on GitHub, so you won't find a lot of repositories here, since I like to keep personal projects to myself. You respect me, and that's the ONLY rule you should remember (as well as my name, of course). Currently, I do most of my projects in either C or C++, but I also use some side languages—mostly because I hate myself. Those languages are Lua, C#, and possibly some other stuff that I'm too lazy to write down.
-
-I hope you have a nice day. Bye!
+C/C++ programmer. I'm not particularly active here — most of my work stays private because not everything needs to be on the internet, and honestly most of it isn't your business anyway.
+Languages I know: C, C++, C#, Lua, Assembly (x86), Python
+What I'm actually good at: C and C++
+The rest: I use them when I have to. I don't enjoy it. Python especially.
+If for some reason you want to reach me — and I'm not sure why you would — Discord is the only place I bother with human interaction: officialfirecubeofman. Don't expect me to be fast, friendly, or particularly talkative. But I'll respond eventually, probably.
+One rule, and it's not complicated: respect. That's the whole list. No need to read further into it.
+If you made it this far, I hope your day is tolerable at minimum. Bye.
