@@ -7,3 +7,7 @@ The rest: I use them when I have to. I don't enjoy it. Python especially.
 If for some reason you want to reach me — and I'm not sure why you would — Discord is the only place I bother with human interaction: **officialfirecubeofman**. Don't expect me to be fast, friendly, or particularly talkative. But I'll respond eventually, probably.
 One rule, and it's not complicated: respect. That's the whole list. No need to read further into it.
 If you made it this far, I hope your day is tolerable at minimum. Bye.
+
+## Profile update (04/23/2026):
+I have delete most repositories from this account. The reason is because those repos were incomplete, abandoned or broken and I've decided to upload only successful projects.
+I am very interested and fascinated in low-level programming, future uploads will be more focused on C and Assembly (not only).
